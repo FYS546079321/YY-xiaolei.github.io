@@ -510,14 +510,8 @@ height: 750px;
     font-size: 25px;
     color: #fff;
     margin: 0 0 20px 0;
-    text-align: left;
-    /* font-weight: 700; */
+    
     text-align: center;
-    /* background: rgba(255, 255, 255, 0.6); */
-    /* display: inline-block; */
-    /* margin: 0 auto; */
-    /* float: none; */
-    /* clear: both; */
     padding: 15px;
     border-left: 3px solid #4967c5;
     border-right: 3px solid #4967c5;
@@ -1563,7 +1557,7 @@ transition: all .3s;
     overflow: hidden;
 }
 
-.portfolio-item .portfolio_img {
+.portfolio-item .portfolio_img{
     overflow: hidden;
     display: block;
     position: relative;
